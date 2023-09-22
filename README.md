@@ -6,9 +6,40 @@ I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with
 
 Skills: React / MongoDB / Express.js / Node.js / HTML / CSS / Tailwind CSS / Bootstrap / Daisy UI / AntDesign / FlowBite / Firebase / dotEnv / JavaScript / Axios / Vercel / Railway.app / TanStack Query / React Icons/ AOS / React Marquee / SSL Commerz / React Hook Form / React Router / React Scroll / Responsive Web Design / Github
 
-- 🌱 I’m currently learning Redux 
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- **Frontend**: React, Material UI, AntDesign, Daisy UI, FlowBite, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Authentication**: Firebase
+- **Version Control**: Git, GitHub
+- **Deployment**: Netlify, Firebase Hosting, Vercel, Railway.app
+- **Other**: RESTful APIs
+
+## 🌱 What I'm Currently Learning
+
+I'm always eager to learn and grow as a developer. Currently, I'm focused on:
+
+- Redux
+
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: sadikahmed258@gmail.com 
+- 📫 How to reach me: sadikahmed258@gmail.com
+
+## 💼 Projects
+
+Here are some of the projects I've worked on:
+
+### [Project Name](Link to GitHub repository)
+Description: Briefly describe the project, its purpose, and the technologies used.
+
+### [Project Name](Link to GitHub repository)
+Description: Briefly describe the project, its purpose, and the technologies used.
+
+### [Project Name](Link to GitHub repository)
+Description: Briefly describe the project, its purpose, and the technologies used.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sadik-Ahmmed-Tonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadikahmmedtonmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadikahmedtonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sadikahmedtonmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadik-ahmmed-007.web.app/)  
@@ -26,4 +57,11 @@ Skills: React / MongoDB / Express.js / Node.js / HTML / CSS / Tailwind CSS / Boo
 ![GitHub metrics](https://metrics.lecoq.io/Sadik-Ahmmed-Tonmoy)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy)  
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch. I'm always open to collaboration and new opportunities.
+
 
