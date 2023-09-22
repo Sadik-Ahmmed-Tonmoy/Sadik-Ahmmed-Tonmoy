@@ -31,7 +31,7 @@ I'm always eager to learn and grow as a developer. Currently, I'm focused on:
 
 Here are some of the projects I've worked on:
 
-### Coffee Time - Full Stack Project ([Live Project Link](https://coffee-time-007.web.app))
+### Coffee Time - Full Stack Project ([Live Project Link](https://coffee-time-007.web.app)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/Coffee-Time-Client))
 Description: Briefly describe the project, its purpose, and the technologies used.
 
 ### [Project Name](Link to GitHub repository)
