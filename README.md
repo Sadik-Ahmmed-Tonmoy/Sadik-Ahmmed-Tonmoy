@@ -58,10 +58,6 @@ Description: Briefly describe the project, its purpose, and the technologies use
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy)  
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch. I'm always open to collaboration and new opportunities.
+# Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch. I'm always open to collaboration and new opportunities.
 
 
