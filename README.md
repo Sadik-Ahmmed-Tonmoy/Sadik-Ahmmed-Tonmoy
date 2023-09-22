@@ -43,7 +43,7 @@ Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payme
 AOS, Axios, Firebase, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, Tailwind-CSS,
 DaisyUi, React-Router
 
-* Vape Cafe - Web application (MERN) ([Live Project Link](https://vape-cafe-007.web.app/) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/vape-cafe-client))
+* Vape Cafe - Web application (MERN) ([Live Project Link](https://vape-cafe-007.web.app/)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/vape-cafe-client))
 
 Our user-friendly website prioritizes convenience. Easily navigate through our product categories, read
 detailed descriptions, and browse customer reviews to make informed choices
