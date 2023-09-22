@@ -10,13 +10,13 @@ Skills: React / MongoDB / Express.js / Node.js / HTML / CSS / Tailwind CSS / Boo
 
 Here are some of the technologies and tools I work with:
 
-- **Frontend**: React, Material UI, AntDesign, Daisy UI, FlowBite, HTML, CSS, JavaScript
+- **Frontend**: React, Material UI, Tailwind CSS, AntDesign, Daisy UI, Bootstrap, FlowBite, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Authentication**: Firebase
 - **Version Control**: Git, GitHub
 - **Deployment**: Netlify, Firebase Hosting, Vercel, Railway.app
-- **Other**: RESTful APIs
+- **Other**: RESTful APIs, dotEnv, Axios, TanStack Query, React Icons, AOS, React Marquee, SSL Commerz, React Hook Form, React Router, React Scroll, Responsive Web Design, Github
 
 ## 🌱 What I'm Currently Learning
 
