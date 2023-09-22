@@ -52,8 +52,6 @@ Description: Briefly describe the project, its purpose, and the technologies use
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadik-Ahmmed-Tonmoy&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sadik-Ahmmed-Tonmoy)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Sadik-Ahmmed-Tonmoy)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy)  
