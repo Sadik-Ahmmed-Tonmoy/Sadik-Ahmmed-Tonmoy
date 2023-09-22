@@ -39,7 +39,7 @@ With Firebase authentication, your data is in trusted hands, and our efficient M
 robust and efficient application system.
 Smooth animations with AOS and Parallax effects create an engaging and dynamic experience.
 
-- Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payment, Tanstack Query,
+Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payment, Tanstack Query,
 AOS, Axios, Firebase, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, Tailwind-CSS,
 DaisyUi, React-Router
 
