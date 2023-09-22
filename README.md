@@ -43,11 +43,28 @@ Smooth animations with AOS and Parallax effects create an engaging and dynamic e
 AOS, Axios, Firebase, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, Tailwind-CSS,
 DaisyUi, React-Router
 
-### [Project Name](Link to GitHub repository)
-Description: Briefly describe the project, its purpose, and the technologies used.
+* Vape Cafe - Web application (MERN) ([Live Project Link](https://vape-cafe-007.web.app/) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/vape-cafe-client))
 
-### [Project Name](Link to GitHub repository)
-Description: Briefly describe the project, its purpose, and the technologies used.
+Our user-friendly website prioritizes convenience. Easily navigate through our product categories, read
+detailed descriptions, and browse customer reviews to make informed choices
+Design a dashboard panel for clients while utilizing the Firebase authentication system to authenticate the user.
+Utilized CRUD (Create, Read, Update, Delete) operations with MongoDB to manage and store data.
+User Accounts: Provide clients with the ability to create accounts, enabling them to save their preferences and
+purchase their favorite products.
+
+Technologies used: SSL Commerz Payment, Firebase, Axios, Tanstack Query, AOS, Lottie-react, AwesomeReveal, React-Marquee, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, SwiperJs,
+Tailwind-CSS, DaisyUi, dotenv, mongoDB, vercel, expressJS
+
+* Burger House - Full Stack Project ([Live Project Link](https://burger-week-007.web.app/)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/Burger-Week-Client))
+
+A user-friendly MERN-based website for effortless food ordering and secure, hassle-free payment system.
+An effortless food order system with a beautifully organized interface to enhance the user experience.
+Integrated the SSL Commerz payment system to ensure secure and reliable payment process.
+We secured user authentication with Firebase and managed data efficiently using MongoDB through CRUD
+operations, creating a robust application system.
+
+Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payment, Tanstack Query,
+AOS, Axios, Firebase, Awesome-Reveal, React-Icons, Helmet-Async, Hook-Form, React-Parallax, SweetAlert2, Tailwind-CSS, DaisyUi, React_Scroll, React-Router
 
 
 
