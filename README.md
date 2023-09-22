@@ -32,7 +32,16 @@ I'm always eager to learn and grow as a developer. Currently, I'm focused on:
 Here are some of the projects I've worked on:
 
 * Coffee Time - Full Stack Project ([Live Project Link](https://coffee-time-007.web.app)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/Coffee-Time-Client))
-Description: Briefly describe the project, its purpose, and the technologies used.
+
+Description: With our seamless interface, you can effortlessly browse our extensive coffee selection.
+Integrated the rock-solid SSL Commerz payment system to ensure your transactions are secure.
+With Firebase authentication, your data is in trusted hands, and our efficient MongoDB operations ensure a
+robust and efficient application system.
+Smooth animations with AOS and Parallax effects create an engaging and dynamic experience.
+
+- Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payment, Tanstack Query,
+AOS, Axios, Firebase, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, Tailwind-CSS,
+DaisyUi, React-Router
 
 ### [Project Name](Link to GitHub repository)
 Description: Briefly describe the project, its purpose, and the technologies used.
