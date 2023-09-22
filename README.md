@@ -81,6 +81,16 @@ AOS, Axios, Firebase, Awesome-Reveal, React-Icons, Helmet-Async, Hook-Form, Reac
 
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sadik-Ahmmed-Tonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadikahmmedtonmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadikahmedtonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sadikahmedtonmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadik-ahmmed-007.web.app/)  
 # Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch. I'm always open to collaboration and new opportunities.
