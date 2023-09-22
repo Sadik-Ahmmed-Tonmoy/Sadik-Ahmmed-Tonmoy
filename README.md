@@ -25,7 +25,7 @@ I'm always eager to learn and grow as a developer. Currently, I'm focused on:
 - Redux
 
 - 💬 Ask me about Web Development 
-- 📫 How to reach me: sadikahmed258@gmail.com
+- 📫 How to reach me: sadikahmmed258@gmail.com
 
 ## 💼 Projects
 
