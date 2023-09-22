@@ -76,8 +76,6 @@ AOS, Axios, Firebase, Awesome-Reveal, React-Icons, Helmet-Async, Hook-Form, Reac
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadik-Ahmmed-Tonmoy)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadik-Ahmmed-Tonmoy&show_icons=true&count_private=true)  
-
 ![GitHub metrics](https://metrics.lecoq.io/Sadik-Ahmmed-Tonmoy)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy)  
