@@ -1,6 +1,5 @@
 # Hi there 👋, my name is Sadik
 ## I am MERN Stack Developer
-![I am MERN Stack Developer](https://media.licdn.com/dms/image/D5616AQF1v4W5rBLZuA/profile-displaybackgroundimage-shrink_350_1400/0/1694199631930?e=1700697600&v=beta&t=tLd2a3oQ1I_W-vTRg6qHTL0t-giYHQcYH0ghB0HzI-4)
 
 I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a love for building web applications that are not only functional but also visually appealing. I enjoy taking on new challenges and constantly expanding my knowledge in the world of web development.
 
