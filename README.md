@@ -1,87 +1,134 @@
-# Hi there 👋, my name is Sadik
-## I am MERN Stack Developer
+<div align="center">
 
-I'm a passionate MERN (MongoDB, Express.js, React, Node.js) stack developer with a love for building web applications that are not only functional but also visually appealing. I enjoy taking on new challenges and constantly expanding my knowledge in the world of web development.
+# Sadik Ahmmed Tonmoy
 
-Skills: React / MongoDB / Express.js / Node.js / HTML / CSS / Tailwind CSS / Bootstrap / Daisy UI / AntDesign / FlowBite / Firebase / dotEnv / JavaScript / Axios / Vercel / Railway.app / TanStack Query / React Icons/ AOS / React Marquee / SSL Commerz / React Hook Form / React Router / React Scroll / Responsive Web Design / Github
+**Full-Stack Engineer · SaaS Builder · Open to Collaboration**
 
-## 🔧 Technologies & Tools
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sadik-ahmmed-007.web.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadikahmmedtonmoy/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sadikahmedtonmoy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadikahmmed258@gmail.com)
 
-Here are some of the technologies and tools I work with:
+</div>
 
-- **Frontend**: React, Material UI, Tailwind CSS, AntDesign, Daisy UI, Bootstrap, FlowBite, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: Firebase
-- **Version Control**: Git, GitHub
-- **Deployment**: Netlify, Firebase Hosting, Vercel, Railway.app
-- **Other**: RESTful APIs, dotEnv, Axios, TanStack Query, React Icons, AOS, React Marquee, SSL Commerz, React Hook Form, React Router, React Scroll, Responsive Web Design, Github
+---
 
-## 🌱 What I'm Currently Learning
+## About Me
 
-I'm always eager to learn and grow as a developer. Currently, I'm focused on:
+I'm a full-stack engineer based in Bangladesh, specialising in production-grade web applications with real-time capabilities, scalable backends, and clean, user-focused frontends. I work across the entire stack — from database schema design to polished UI — and I care deeply about building things that actually work at scale.
 
-- Redux
+Currently focused on:
+- Real-time systems with **Socket.IO** and event-driven architectures
+- Scalable backend pipelines using **Redis**, **BullMQ**, and **Prisma**
+- Full-stack **Next.js** applications with **TypeScript** throughout
+- Building my own SaaS products from concept to deployment
 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me: sadikahmmed258@gmail.com
+---
 
-## 💼 Projects
+## Tech Stack
 
-Here are some of the projects I've worked on:
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-* Coffee Time - Full Stack Project ([Live Project Link](https://coffee-time-007.web.app)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/Coffee-Time-Client))
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF4F4F?style=flat-square&logo=redis&logoColor=white)
 
-Description: With our seamless interface, you can effortlessly browse our extensive coffee selection.
-Integrated the rock-solid SSL Commerz payment system to ensure your transactions are secure.
-With Firebase authentication, your data is in trusted hands, and our efficient MongoDB operations ensure a
-robust and efficient application system.
-Smooth animations with AOS and Parallax effects create an engaging and dynamic experience.
+### Database & Caching
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
-Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payment, Tanstack Query,
-AOS, Axios, Firebase, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, Tailwind-CSS,
-DaisyUi, React-Router
+### Auth & Payments
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![SSL Commerz](https://img.shields.io/badge/SSL_Commerz-FF6B00?style=flat-square&logo=stripe&logoColor=white)
 
-* Vape Cafe - Web application (MERN) ([Live Project Link](https://vape-cafe-007.web.app/)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/vape-cafe-client))
+### DevOps & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-Our user-friendly website prioritizes convenience. Easily navigate through our product categories, read
-detailed descriptions, and browse customer reviews to make informed choices
-Design a dashboard panel for clients while utilizing the Firebase authentication system to authenticate the user.
-Utilized CRUD (Create, Read, Update, Delete) operations with MongoDB to manage and store data.
-User Accounts: Provide clients with the ability to create accounts, enabling them to save their preferences and
-purchase their favorite products.
+---
 
-Technologies used: SSL Commerz Payment, Firebase, Axios, Tanstack Query, AOS, Lottie-react, AwesomeReveal, React-Marquee, React-Icons, Helmet-Async, Hook-Form, React-Parallax, Sweet-Alert2, SwiperJs,
-Tailwind-CSS, DaisyUi, dotenv, mongoDB, vercel, expressJS
+## Featured Projects
 
-* Burger House - Full Stack Project ([Live Project Link](https://burger-week-007.web.app/)) ([Link to GitHub repository](https://github.com/Sadik-Ahmmed-Tonmoy/Burger-Week-Client))
+### 🚗 [KnockMyRide](https://knockmyride.com) — Smart QR Contact System for Vehicles
+> *SaaS · Next.js · QR Technology · Privacy-first*
 
-A user-friendly MERN-based website for effortless food ordering and secure, hassle-free payment system.
-An effortless food order system with a beautifully organized interface to enhance the user experience.
-Integrated the SSL Commerz payment system to ensure secure and reliable payment process.
-We secured user authentication with Firebase and managed data efficiently using MongoDB through CRUD
-operations, creating a robust application system.
+A smart QR sticker system that lets anyone instantly contact a vehicle owner via call or WhatsApp — without revealing the owner's personal number. Designed for Bangladesh's roads with global expansion in mind.
 
-Technologies used: Vercel, dotEnv, ExpressJs, MongoDB, NodeJs, SSL-Commerz payment, Tanstack Query,
-AOS, Axios, Firebase, Awesome-Reveal, React-Icons, Helmet-Async, Hook-Form, React-Parallax, SweetAlert2, Tailwind-CSS, DaisyUi, React_Scroll, React-Router
+**Key features:**
+- 🔒 **Privacy-first** — owner's number is never exposed to the scanner
+- 📱 **No app required** — works with any smartphone camera
+- ⚡ **Instant contact** — scanners need zero registration
+- 🚗 **Universal** — bikes, cars, CNGs, buses, trucks and more
+- 📊 **Future roadmap** — fleet management dashboard, scan analytics, premium subscriptions
 
+**Use cases:** parking conflicts, emergencies, lights left on, lost items, fallen bikes.
 
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+### 🛍️ [Perfecto](https://perfectobd.com) — E-Commerce Platform
+> *Next.js · Node.js · MongoDB · Full-Stack*
 
+A full-featured e-commerce platform tailored for the Bangladeshi market. Built with a focus on performance, clean UX, and reliable order management.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sadik-Ahmmed-Tonmoy)](https://github.com/ryo-ma/github-profile-trophy)
+**Key features:**
+- Complete product catalogue with category filtering
+- Secure checkout and order tracking
+- Admin dashboard for inventory and order management
+- Responsive design optimised for mobile-first users
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadik-Ahmmed-Tonmoy)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Sadik-Ahmmed-Tonmoy)  
+### 🎮 [Primely Gaming](https://primely-gaming-client.vercel.app) — Gaming Tournament Platform
+> *Next.js · Node.js · MongoDB · Real-time*
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy)  
-            
+A competitive gaming tournament platform where players can register, compete, and track standings across multiple game titles.
 
-# Thank you for visiting my GitHub profile! Feel free to explore my projects and get in touch. I'm always open to collaboration and new opportunities.
+**Key features:**
+- Tournament bracket creation and management
+- Player registration and profile system
+- Live standings and leaderboard updates
+- Match result submission and history tracking
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sadik-Ahmmed-Tonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sadikahmmedtonmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sadikahmedtonmoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sadikahmedtonmoy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sadik-ahmmed-007.web.app/)  
+## GitHub Stats
 
+<div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadik-Ahmmed-Tonmoy&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sadik-Ahmmed-Tonmoy&theme=darkhub&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## Currently Working On
+
+- 🚀 Growing **KnockMyRide** — adding premium tiers, analytics dashboards, and fleet management
+- 📦 Deepening expertise in **distributed systems** — Redis pub/sub, BullMQ job pipelines, horizontal scaling
+- 🔭 Exploring **WebSocket-heavy architectures** for real-time collaborative tools
+
+---
+
+<div align="center">
+
+*Open to freelance projects, SaaS collaborations, and interesting engineering challenges.*
+*Feel free to reach out — I don't bite. 🤝*
+
+**[sadikahmmed258@gmail.com](mailto:sadikahmmed258@gmail.com)**
+
+</div>
