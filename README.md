@@ -7,10 +7,10 @@
 Building scalable web applications, SaaS products, and real-world digital solutions.
 
 <p>
-  <a href="https://sadik-ahmmed-007.web.app/">Portfolio</a> ·
+  <a href="https://sadik-ahmmed-portfolio.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/sadikahmmedtonmoy/">LinkedIn</a> ·
-  <a href="https://github.com/Sadik-Ahmed-Tonmoy">GitHub</a> ·
-  <a href="mailto:sadikahmmed258@gmail.com">Email</a>
+  <a href="https://github.com/Sadik-Ahmmed-Tonmoy">GitHub</a> ·
+  <a href="mailto:workwithsadik@gmail.com">Email</a>
 </p>
 
 </div>
