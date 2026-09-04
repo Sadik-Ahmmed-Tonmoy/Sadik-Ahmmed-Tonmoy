@@ -211,13 +211,6 @@ Development     → Git, GitHub, Linux
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadik-Ahmmed-Tonmoy&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadik-Ahmmed-Tonmoy&layout=compact&theme=dark&hide_border=true" />
-
-<br />
 
 <img src="https://streak-stats.demolab.com/?user=Sadik-Ahmmed-Tonmoy&theme=dark&hide_border=true" />
 
@@ -231,7 +224,7 @@ I'm open to **full-time opportunities, freelance projects, SaaS collaborations, 
 
 <div align="center">
 
-<a href="https://sadik-ahmmed-007.web.app/">
+<a href="https://sadik-ahmmed-portfolio.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sadikahmmedtonmoy/">
